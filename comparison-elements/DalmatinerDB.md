@@ -1,5 +1,10 @@
 # DalmatinerDB - https://github.com/dalmatinerdb/dalmatinerdb
 
+## Clusterability Features
+- High Availability
+- Scalability
+- Load Balancing
+
 ## Functions
 - INS
 - READ
@@ -10,6 +15,10 @@
 - MAX
 - MIN
 - DEL
+
+## Advanced Functions
+- Long-term Storage
+- Tags
 
 ## Smallest Sampling Interval
 - 1 ms
